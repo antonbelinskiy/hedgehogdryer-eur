@@ -22,7 +22,7 @@
   <div class="page-width page-width--narrow section-{{ section.id }}-padding">
     <h2 class="page-title">
       {%- if section.settings.page.title != blank -%}
-        {{ section.settings.page.title | escape }}
+        {{ section.settings.page.title | escape | replace: '[primary]' , '<span class="color-primary">' | replace: '[/primary]' , '</span>' }}
       {%- else -%}
         Page title
       {%- endif -%}

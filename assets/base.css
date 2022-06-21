@@ -3109,3 +3109,7 @@ details-disclosure > details {
     display: table; 
   }
   /* /Popup */
+
+span.color-primary {
+  color: orange;
+}
