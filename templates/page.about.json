@@ -1,0 +1,97 @@
+{
+  "sections": {
+    "ABOUT_Main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ABOUT_Story-behind-hedgehog": {
+      "type": "image-with-text",
+      "blocks": {
+        "16450274427622462e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The story behind Hedgehog",
+            "heading_size": "h1"
+          }
+        },
+        "16450274427622462e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bjørn Holte moved from New York City to Hemsedal and quickly discovered the daily challenge, nuisance, and headache of having multiple pairs of dry gloves and shoes for their growing family. With three (now four!) young children, gloves, shoes and boots were frequently soaking wet or totally misplaced once they arrived at home. Hemsedal, like much of Scandinavia, has snow and rain most of the year. For an active outdoorsy family, staying cozy means staying dry, whatever the weather.<\/p><p>Bjørn tried to use shoe dryers on the market, but the other products were weak and ineffective. He needed a simple solution that would dry and organize his family's gloves and boots quickly and decided to create a new product that would solve the problem. This is how the idea of Hedgehog originated.<br\/><br\/>Hedgehog has now developed a market-leading series of products across Scandinavia within the shoe dryer category. The team has designed its turbine technology with engineers from the Water Power Laboratory at NTNU; engaged engineers from leading fan and heating manufacturers; and has performed extensive safety tests and certifications to deliver a safe and quality product. Hedgehog design and technology are now also protected with a portfolio of patents that cover all markets the company enters.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16450274427622462e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16450274427622462e-0",
+        "16450274427622462e-1",
+        "16450274427622462e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_2.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1645027670e18a33cb": {
+      "type": "slideshow",
+      "blocks": {
+        "164502767012b59064-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_3.jpg",
+            "heading": "",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164502767012b59064-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "ABOUT_Main",
+    "ABOUT_Story-behind-hedgehog",
+    "1645027670e18a33cb"
+  ]
+}

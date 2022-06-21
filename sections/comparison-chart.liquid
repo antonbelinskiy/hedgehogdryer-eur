@@ -1,0 +1,131 @@
+{%- if section.blocks.size -%}
+  <div class="comparison-chart__bottom">
+    <div class="comparison-chart">
+      <div class="comparison-chart__title">
+        <div class="comparison-chart__title-label">
+          {{ section.settings.label }}
+        </div>
+        <div class="comparison-chart__title-column h3">
+          {{ section.settings.column_1 }}
+        </div>
+        <div class="comparison-chart__title-column h3">
+          {{ section.settings.column_2 }}
+        </div>
+      </div>
+      {%- for block in section.blocks -%}
+        {%- case block.type -%}
+          {%- when 'row' -%}
+            <div class="comparison-chart__row">
+              <div class="comparison-chart__row-label">
+                <span>
+                  <span>
+                    {{ block.settings.label }}
+                  </span>
+                </span>
+              </div>
+              <div class="comparison-chart__row-column">
+                {%- if block.settings.column_1_icon != blank -%}
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                    <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z"/>
+                  </svg>
+                {%- else -%}
+                  {{ block.settings.column_1 }}
+                {%- endif -%}
+              </div>
+              <div class="comparison-chart__row-column">
+                {%- if block.settings.column_2_icon != blank -%}
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-circle" viewBox="0 0 16 16">
+                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                  </svg>
+                {%- else -%}
+                  {{ block.settings.column_2 }}
+                {%- endif -%}
+              </div>
+            </div>
+        {%- endcase -%}
+      {%- endfor -%}
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Comparison chart",
+  "settings": [
+    {
+      "type": "text",
+      "id": "label",
+      "label": "Label",
+	  "default": "Function"
+    },
+    {
+      "type": "text",
+      "id": "column_1",
+      "label": "Column 1",
+	  "default": "Hedgehog Dryer"
+    },
+    {
+      "type": "text",
+      "id": "column_2",
+      "label": "Column 2",
+	  "default": "Existing dryers"
+    }
+  ],
+  "max_blocks": 16,
+  "blocks": [
+    {
+      "type": "row",
+      "name": "Row",
+      "settings": [
+        {
+          "type": "header",
+          "content": "Label"
+        },
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Text"
+        },
+        {
+          "type": "header",
+          "content": "Column 1"
+        },
+        {
+          "type": "text",
+          "id": "column_1",
+          "label": "Text"
+        },
+        {
+          "type": "checkbox",
+          "id": "column_1_icon",
+          "default": false,
+          "label": "Show icon"
+        },
+        {
+          "type": "header",
+          "content": "Column 2"
+        },
+        {
+          "type": "text",
+          "id": "column_2",
+          "label": "Text"
+        },
+        {
+          "type": "checkbox",
+          "id": "column_2_icon",
+          "default": false,
+          "label": "Show icon"
+        }
+      ]
+    }
+  ],
+  "default": {
+    "blocks": [
+      {
+        "type": "row"
+      }
+    ]
+  }
+}
+{% endschema %}

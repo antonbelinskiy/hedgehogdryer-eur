@@ -1,0 +1,219 @@
+{
+  "sections": {
+    "FAQ_top_banner": {
+      "type": "slideshow",
+      "blocks": {
+        "16450254285c9af173-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FAQ_top.jpg",
+            "heading": "Have a question?",
+            "heading_size": "medium",
+            "subheading": "We would love to help!",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16450254285c9af173-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "FAQ_main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "your_order_faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1644907081649c4246-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "truck",
+            "row_content": "<p>We have free worldwide shipping, all VAT included. We ship every business day from our storage and deliver within 1-3 business days in Europe using our partner DHL.<\/p>",
+            "page": ""
+          }
+        },
+        "1644907081649c4246-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I have to pay any import taxes or extra costs?",
+            "icon": "price_tag",
+            "row_content": "<p>No, we ship to all countries including all charges for taxes and import costs included.<\/p>",
+            "page": ""
+          }
+        },
+        "1644907081649c4246-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do you contact us?",
+            "icon": "chat_bubble",
+            "row_content": "<p>Talk to us, we are here to help!<br\/>Choose e-mail, phone or <a href=\"https:\/\/www.facebook.com\/hedgehogdryer\"><span style=\"text-decoration:underline\">Facebook <\/span><\/a>to contact us directly and we are happy to assist you with any questions, remark or suggestions. See our <a href=\"\/pages\/contact-us\" title=\"\/pages\/contact-us\"><span style=\"text-decoration:underline\">contact page.<\/span><\/a><\/p>",
+            "page": ""
+          }
+        },
+        "1644907081649c4246-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Corona Information",
+            "icon": "heart",
+            "row_content": "<p>Hedgehog is not affected by the corona virus. Our DHL partner delivers the package to your door within 3 days from your order.<\/p><p>We still encourage you to do place your order more than 3 days before Christmas eve :)<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644907081649c4246-0",
+        "1644907081649c4246-1",
+        "1644907081649c4246-2",
+        "1644907081649c4246-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "YOUR ORDER",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "our_product_faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16449073084e6dbd74-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why does Hedgehog dry so fast?",
+            "icon": "question_mark",
+            "row_content": "<p>We have invented and patented a turbine technology together with engineers from NTNU water power laboratory. This means that we create a high air pressure that forces the humidity out the fabric of the shoe or mitten.<\/p><p>This means that we dry a soaking wet shoe in less than 30 minutes on tornado mode and mitten even faster.<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much weight can Hedgehog hold?",
+            "icon": "question_mark",
+            "row_content": "<p>For the <a href=\"\/products\/hanger-white\" title=\"\/products\/hanger-white\">HANGER<\/a> and <a href=\"\/products\/wall-black\" title=\"\/products\/wall-black\">WALL<\/a> we recommend not drying shoes that weigh more than half a kilo. Cross country ski boots, sneakers, kids boots, mittens and gloves are fine.<\/p><p>For Alpine ski boots, Snowboard boots we recommend using Hedgehog <a href=\"\/products\/octopus-black\" title=\"\/products\/octopus-black\">OCTOPUS<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Hedgehog safe?",
+            "icon": "question_mark",
+            "row_content": "<p>We believe Hedgehog is the safest shoe dryer on the market.<\/p><p>We have used a fire safe ceramic heating element, double fuses, temperature sensor and also coated all electronics with fire resistant gel.<\/p><p>All products have been tested and approved by NEMKO according to safety standards:<\/p><p>IEC\/EN 60335-1<br\/>IEC\/EN 60335-2-43<br\/>IEC\/ EN 62233<br\/>EN 55014-1:2017<br\/>EN 610003-2:2014<br\/>EN 61000-3-3:2013<br\/>EN 55014-2:2015<br\/>IEC\/EN 60335-2-65<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can Hedgehog be inside a closet?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, we have designed the Hedgehog to be able to operate inside a closet. If overheating occurs, it will automatically shut down.<\/p><p>One of the advantages of having it inside the closet is when running in tornado mode, there will be no sound.<\/p><p>If you are drying wet shoes and mittens over a longer time in a closed space, we recommend to have ventilation to air out the humidity.<\/p>",
+            "page": ""
+          }
+        },
+        "caf2595c-8fca-4768-aadc-5d32677d82e2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long is the cord?",
+            "icon": "question_mark",
+            "row_content": "<p>Our cord is 3 meters. We supply the longest cord possible on an electric fan, so you can reach an electric outlet nearby.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16449073084e6dbd74-0",
+        "16449073084e6dbd74-1",
+        "16449073084e6dbd74-2",
+        "16449073084e6dbd74-3",
+        "caf2595c-8fca-4768-aadc-5d32677d82e2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "OUR PRODUCT",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "FAQ_footer_banner": {
+      "type": "slideshow",
+      "blocks": {
+        "164502564338592e51-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FAQ_bottom.jpg",
+            "heading": "Life is better with dry shoes and gloves. Enjoy life!",
+            "heading_size": "medium",
+            "subheading": "The Hedgehog Family",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "164502564338592e51-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "FAQ_top_banner",
+    "FAQ_main",
+    "your_order_faq",
+    "our_product_faq",
+    "FAQ_footer_banner"
+  ]
+}

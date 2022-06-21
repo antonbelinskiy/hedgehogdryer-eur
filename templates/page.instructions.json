@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "INSTRUCTIONS_Header_banner": {
+      "type": "slideshow",
+      "blocks": {
+        "16448795542384cb8a-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instructions_banner.jpg",
+            "heading": "Let's get your Hedgehog up and running!",
+            "heading_size": "large",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16448795542384cb8a-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "INSTRUCTIONS_main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "INSTRUCTIONS_footer": {
+      "type": "slideshow",
+      "blocks": {
+        "1645024798d4ef6aea-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Setting_up_1.jpg",
+            "heading": "",
+            "heading_size": "medium",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1645024798d4ef6aea-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "INSTRUCTIONS_Header_banner",
+    "INSTRUCTIONS_main",
+    "INSTRUCTIONS_footer"
+  ]
+}

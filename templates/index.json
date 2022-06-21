@@ -1,0 +1,413 @@
+{
+  "sections": {
+    "INDEX_Header_banner": {
+      "type": "video-banner",
+      "blocks": {
+        "16449492741f2d030a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>faster <\/p><p>smarter <\/p><p><strong>dryer<\/strong><\/p>",
+            "heading_size": "large"
+          }
+        },
+        "c2e871a9-3306-43e3-afd1-dcef2360f9b4": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>ADJUSTABLE FAN<\/strong>: 5 speed settings, including <strong>quiet<\/strong> and <strong>tornado<\/strong> mode<\/p>"
+          }
+        },
+        "78595a5b-4d3b-4e65-8620-211ad3bb8a02": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>INCREASED CAPACITY<\/strong>: A standard Hedgehog Wall dries 4 pairs and can be extended to 8 or 12<\/p>"
+          }
+        },
+        "3380cfb0-5cb6-4d01-91b0-75b8bf05b127": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>ADJUSTABLE HEAT<\/strong>: so you can dry sensitive materials<\/p>"
+          }
+        },
+        "16449492741f2d030a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you tired of shoe dryers that barely work?<\/p><p>Meet the Hedgehog Dryers with turbine technology to dry your shoes and gloves in 15-30 minutes.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "cc970593-85d7-400d-be31-1c0ce307d6ed": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>10-HOUR TIMER<\/strong>: Tired of heaters that only operate for 2 or 3 hours? We increased it to 10.<\/p>"
+          }
+        },
+        "6e86e69d-0c79-464f-898b-50146f550cf1": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>3 MODELS<\/strong>: for all your home or cabin drying needs<\/p>"
+          }
+        },
+        "950bfd54-e09e-4da7-b2c6-378ac6a50db3": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>IMPROVED SAFETY<\/strong>:we use a fire-safe ceramic heating element and follow all safety guidelines<\/p>"
+          }
+        },
+        "12e0d2f8-da9c-49d0-b2c4-a2ff98241a9e": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p><strong>ELEGANT SCANDINAVIAN DESIGN<\/strong>: developed in Hemsedal, Norway<\/p>"
+          }
+        },
+        "16449492741f2d030a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16449492741f2d030a-0",
+        "c2e871a9-3306-43e3-afd1-dcef2360f9b4",
+        "78595a5b-4d3b-4e65-8620-211ad3bb8a02",
+        "3380cfb0-5cb6-4d01-91b0-75b8bf05b127",
+        "16449492741f2d030a-1",
+        "cc970593-85d7-400d-be31-1c0ce307d6ed",
+        "6e86e69d-0c79-464f-898b-50146f550cf1",
+        "950bfd54-e09e-4da7-b2c6-378ac6a50db3",
+        "12e0d2f8-da9c-49d0-b2c4-a2ff98241a9e",
+        "16449492741f2d030a-2"
+      ],
+      "settings": {
+        "video_url": "https:\/\/dl.dropbox.com\/s\/s2b4bc7l7enne5l\/Hedgehog%2007%20MASTER%2028Sek%20Nettside%201080x1080.mp4?dl=0",
+        "image": "shopify:\/\/shop_images\/1080x1080_348b06b3-d02d-4eb9-8842-7b93ab07c466.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "large"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tech_image.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "video_url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "INDEX_All-models-feature": {
+      "type": "rich-text",
+      "blocks": {
+        "1644776689fb3f240a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ALL MODELS FEATURE A 10-HOUR TIMER, ADJUSTABLE AIR FLOW AND TEMPERATURE (37°C, 45°C AND 60°C), AND SILENT AND TORNADO MODE. AVAILABLE IN BLACK AND WHITE.",
+            "heading_size": "h2"
+          }
+        },
+        "1644776689fb3f240a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1644776689fb3f240a-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644776689fb3f240a-0",
+        "1644776689fb3f240a-1",
+        "1644776689fb3f240a-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "INDEX_Octopus-Hanger-Wall": {
+      "type": "multicolumn",
+      "blocks": {
+        "1644776719d5e74592-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hedgehog_Octopus_Black_HHOB01_in_use_360x_0f67089f-2e88-41ed-aa16-d41693723f2b.png",
+            "title": "OCTOPUS",
+            "text": "<p>Super-fast drying of boots and shoes for outdoor enthusiasts, construction workers, and other people who work hard, play hard. Dry the shoes and boots that work as hard as you do, rain or snow.<\/p>",
+            "link_label": "BUY NOW",
+            "link": "https:\/\/hedgehogdryer-eur.myshopify.com\/products\/octopus-black"
+          }
+        },
+        "1644776719d5e74592-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hedgehog_Hanger_White_HHHW01_perspective_view_360x_5933ff00-32b3-4401-adb9-b4b08e006130.png",
+            "title": "HANGER",
+            "text": "<p>Discreet drying solution for people who need to dry shoes and gloves fast, but have limited space. Can be placed in a closet or on a hook in your apartment or cabin. Improve your life, whatever the weather.<\/p>",
+            "link_label": "BUY NOW",
+            "link": "https:\/\/hedgehogdryer-eur.myshopify.com\/products\/hanger-white"
+          }
+        },
+        "1644776719d5e74592-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hedgehog_Wall_White_HHWW01_in_use_360x_3aa42aa1-b878-4da6-8879-32e3da1e4668.png",
+            "title": "WALL",
+            "text": "<p>The favorite among families, mounts on the wall so kids can hang up their shoes and mittens when they come in to warm up. Control panel at the top is operated by adults. Dry shoes, warm hearts.<\/p>",
+            "link_label": "BUY NOW",
+            "link": "https:\/\/hedgehogdryer-eur.myshopify.com\/products\/wall-white"
+          }
+        }
+      },
+      "block_order": [
+        "1644776719d5e74592-0",
+        "1644776719d5e74592-1",
+        "1644776719d5e74592-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "INDEX_Video-advantages": {
+      "type": "video",
+      "settings": {
+        "heading": "Why so much better?",
+        "cover_image": "shopify:\/\/shop_images\/Youtube-Thumbnail_1296x_b4412f65-0ee9-4a1d-a747-dc52e5dcf389.jpg",
+        "video_url": "https:\/\/youtu.be\/44YINruNUu0",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "INDEX_Faster-drying": {
+      "type": "image-with-text",
+      "blocks": {
+        "164477886405d1147f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Up to 5 times faster drying",
+            "heading_size": "h2"
+          }
+        },
+        "164477886405d1147f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As people who love to spend time outside, we were tired of spending time inside trying to dry our gloves, shoes and boots. We tried the shoe dryers on the market, but were disappointed by how weak and ineffective they were. We decided to make the very best shoe dryer possible.<br\/><\/p><p>With Hedgehog, you can have dry shoes and gloves in the morning (even if you forgot to turn it on last night!). A perfect holiday gift, Hedgehog Dryers help you and your loved ones get back outdoors.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "164477886405d1147f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "https:\/\/hedgehogdryer-eur.myshopify.com\/products\/hanger-white"
+          }
+        }
+      },
+      "block_order": [
+        "164477886405d1147f-0",
+        "164477886405d1147f-1",
+        "164477886405d1147f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hedgehog_Elin_1080x1400_ce65c51d-3145-43ba-95ce-c15e57b388f7.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "INDEX_Simply-super-fast-drying": {
+      "type": "image-with-text",
+      "blocks": {
+        "1644779083e5c608d1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIMPLY SUPER-FAST DRYING",
+            "heading_size": "h2"
+          }
+        },
+        "1644779083e5c608d1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hedgehog Dryers are a revolutionary series of products that efficiently and effectively dry gloves, mittens, shoes and boots. Hedgehog Dryers are up to 5 times more powerful than other shoe dryers on the market.<\/strong><\/p><p><strong>ADVANTAGES:<\/strong><\/p><p><strong>• ADJUSTABLE FAN<\/strong>: 5 speed settings, including <strong>quiet<\/strong> and <strong>tornado<\/strong> mode<br\/><strong>• INCREASED CAPACITY<\/strong>: A standard Hedgehog Wall dries 4 pairs and can be extended to 8 or 12<br\/><strong>• ADJUSTABLE HEAT<\/strong>: so you can dry sensitive materials<br\/><strong>• 10-HOUR TIMER<\/strong>: Tired of heaters that only operate for 2 or 3 hours? We increased it to 10.<br\/><strong>• 3 MODELS<\/strong>:<strong> <\/strong>for all your home or cabin drying needs<br\/><strong>• IMPROVED SAFETY<\/strong>:<strong> <\/strong>we use a fire-safe ceramic heating element and follow all safety guidelines<br\/><strong>• ELEGANT SCANDINAVIAN DESIGN<\/strong>: developed in Hemsedal, Norway<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1644779083e5c608d1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644779083e5c608d1-0",
+        "1644779083e5c608d1-1",
+        "1644779083e5c608d1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tech_image.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "INDEX_Testimonials": {
+      "type": "multicolumn",
+      "blocks": {
+        "164477924065a664c9-0": {
+          "type": "column",
+          "settings": {
+            "title": "〝 Finally we quickly have dry shoes and mittens for all the kids. If we have forgotten to dry a pair, we can dry it using tornado mode while we have breakfast in the morning. 〞",
+            "text": "<p>— Kristin, mother with 4 kids<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "164477924065a664c9-1": {
+          "type": "column",
+          "settings": {
+            "title": "〝 A truly great product. It dries shoes and mittens in record time. We have a Hedgehog Wall at home and a Hedgehog Octopus at our cabin in Hemsedal. 〞",
+            "text": "<p>— Morten Westberg, father with 2 kids<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "164477924065a664c9-2": {
+          "type": "column",
+          "settings": {
+            "title": "〝 We really love warm shoes. It also works perfectly on wet and sweaty shoes during the summer. 〞",
+            "text": "<p>— Lisa & Morten, active ski family<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164477924065a664c9-0",
+        "164477924065a664c9-1",
+        "164477924065a664c9-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "INDEX_Header_banner",
+    "image_banner",
+    "INDEX_All-models-feature",
+    "INDEX_Octopus-Hanger-Wall",
+    "INDEX_Video-advantages",
+    "INDEX_Faster-drying",
+    "INDEX_Simply-super-fast-drying",
+    "INDEX_Testimonials"
+  ]
+}

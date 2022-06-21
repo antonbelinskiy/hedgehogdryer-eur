@@ -1,0 +1,304 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "eb3b9fc8-06e2-46f2-a694-47342c273656": {
+          "type": "comparison-chart",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "caption",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "eb3b9fc8-06e2-46f2-a694-47342c273656"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "small",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "comparison-chart": {
+      "type": "comparison-chart",
+      "blocks": {
+        "c1141dee-5b9b-4bfa-aa09-379c19fab980": {
+          "type": "row",
+          "settings": {
+            "label": "Power (Watt)",
+            "column_1": "650 – 750 W",
+            "column_1_icon": false,
+            "column_2": "200 – 350W",
+            "column_2_icon": false
+          }
+        },
+        "092bac7d-e132-494c-a34f-2f98360d5cc5": {
+          "type": "row",
+          "settings": {
+            "label": "Airflow",
+            "column_1": "100 m3",
+            "column_1_icon": false,
+            "column_2": "30-60 m3",
+            "column_2_icon": false
+          }
+        },
+        "4f08c772-192a-4d11-97dd-0685ae031594": {
+          "type": "row",
+          "settings": {
+            "label": "Drying time (max speed)",
+            "column_1": "15 min",
+            "column_1_icon": false,
+            "column_2": "90 min",
+            "column_2_icon": false
+          }
+        },
+        "aee05ddc-82ae-43fd-a746-3e87222b0100": {
+          "type": "row",
+          "settings": {
+            "label": "Drying Capacity, pairs",
+            "column_1": "2 – 12 pairs",
+            "column_1_icon": false,
+            "column_2": "1 – 2 pairs",
+            "column_2_icon": false
+          }
+        },
+        "b76f0193-b34c-4cef-bbf6-e5aecb7e1964": {
+          "type": "row",
+          "settings": {
+            "label": "Fire safety heating element",
+            "column_1": "Yes",
+            "column_1_icon": true,
+            "column_2": "No",
+            "column_2_icon": true
+          }
+        },
+        "b59eff97-36ec-409b-ad04-a10704588af9": {
+          "type": "row",
+          "settings": {
+            "label": "Silent mode",
+            "column_1": "Yes",
+            "column_1_icon": true,
+            "column_2": "No",
+            "column_2_icon": true
+          }
+        },
+        "612f05de-e912-4484-befa-2a8bb2914353": {
+          "type": "row",
+          "settings": {
+            "label": "Adjustable heat",
+            "column_1": "Yes",
+            "column_1_icon": true,
+            "column_2": "No",
+            "column_2_icon": true
+          }
+        },
+        "700c7456-6b06-4dfc-b0c0-dd2ca962987d": {
+          "type": "row",
+          "settings": {
+            "label": "Module based",
+            "column_1": "Yes",
+            "column_1_icon": true,
+            "column_2": "No",
+            "column_2_icon": true
+          }
+        },
+        "bf572854-e40f-4b26-a593-0797a66acc8e": {
+          "type": "row",
+          "settings": {
+            "label": "Sustainable with spare parts",
+            "column_1": "Yes",
+            "column_1_icon": true,
+            "column_2": "No",
+            "column_2_icon": true
+          }
+        },
+        "1e7b916e-52b3-4770-bdcb-f034d4db1f1c": {
+          "type": "row",
+          "settings": {
+            "label": "Timer",
+            "column_1": "10 hours",
+            "column_1_icon": false,
+            "column_2": "2-3 hours",
+            "column_2_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "c1141dee-5b9b-4bfa-aa09-379c19fab980",
+        "092bac7d-e132-494c-a34f-2f98360d5cc5",
+        "4f08c772-192a-4d11-97dd-0685ae031594",
+        "aee05ddc-82ae-43fd-a746-3e87222b0100",
+        "b76f0193-b34c-4cef-bbf6-e5aecb7e1964",
+        "b59eff97-36ec-409b-ad04-a10704588af9",
+        "612f05de-e912-4484-befa-2a8bb2914353",
+        "700c7456-6b06-4dfc-b0c0-dd2ca962987d",
+        "bf572854-e40f-4b26-a593-0797a66acc8e",
+        "1e7b916e-52b3-4770-bdcb-f034d4db1f1c"
+      ],
+      "settings": {
+        "label": "Function",
+        "column_1": "Hedgehog Dryer",
+        "column_2": "Existing dryers"
+      }
+    },
+    "our_product_faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1644907081649c4246-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "truck",
+            "row_content": "<p>We have free worldwide shipping, all VAT included. We ship every business day from our storage and deliver within 1-3 business days in Europe using our partner DHL.<\/p>",
+            "page": ""
+          }
+        },
+        "1644907081649c4246-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I have to pay any import taxes or extra costs?",
+            "icon": "price_tag",
+            "row_content": "<p>No, we ship to all countries including all charges for taxes and import costs included.<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why does Hedgehog dry so fast?",
+            "icon": "question_mark",
+            "row_content": "<p>We have invented and patented a turbine technology together with engineers from NTNU water power laboratory. This means that we create a high air pressure that forces the humidity out the fabric of the shoe or mitten.<\/p><p>This means that we dry a soaking wet shoe in less than 30 minutes on tornado mode and mitten even faster.<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much weight can Hedgehog hold?",
+            "icon": "question_mark",
+            "row_content": "<p>For the <a href=\"\/products\/hanger-white\" title=\"\/products\/hanger-white\">HANGER<\/a> and <a href=\"\/products\/wall-black\" title=\"\/products\/wall-black\">WALL<\/a> we recommend not drying shoes that weigh more than half a kilo. Cross country ski boots, sneakers, kids boots, mittens and gloves are fine.<\/p><p>For Alpine ski boots, Snowboard boots we recommend using Hedgehog <a href=\"\/products\/octopus-black\" title=\"\/products\/octopus-black\">OCTOPUS<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Hedgehog safe?",
+            "icon": "question_mark",
+            "row_content": "<p>We believe Hedgehog is the safest shoe dryer on the market.<\/p><p>We have used a fire safe ceramic heating element, double fuses, temperature sensor and also coated all electronics with fire resistant gel.<\/p><p>All products have been tested and approved by NEMKO according to safety standards:<\/p><p>IEC\/EN 60335-1<br\/>IEC\/EN 60335-2-43<br\/>IEC\/ EN 62233<br\/>EN 55014-1:2017<br\/>EN 610003-2:2014<br\/>EN 61000-3-3:2013<br\/>EN 55014-2:2015<br\/>IEC\/EN 60335-2-65<\/p>",
+            "page": ""
+          }
+        },
+        "16449073084e6dbd74-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can Hedgehog be inside a closet?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, we have designed the Hedgehog to be able to operate inside a closet. If overheating occurs, it will automatically shut down.<\/p><p>One of the advantages of having it inside the closet is when running in tornado mode, there will be no sound.<\/p><p>If you are drying wet shoes and mittens over a longer time in a closed space, we recommend to have ventilation to air out the humidity.<\/p>",
+            "page": ""
+          }
+        },
+        "caf2595c-8fca-4768-aadc-5d32677d82e2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long is the cord?",
+            "icon": "question_mark",
+            "row_content": "<p>Our cord is 3 meters. We supply the longest cord possible on an electric fan, so you can reach an electric outlet nearby.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644907081649c4246-0",
+        "1644907081649c4246-1",
+        "16449073084e6dbd74-0",
+        "16449073084e6dbd74-1",
+        "16449073084e6dbd74-2",
+        "16449073084e6dbd74-3",
+        "caf2595c-8fca-4768-aadc-5d32677d82e2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "comparison-chart",
+    "our_product_faq",
+    "product-recommendations"
+  ]
+}

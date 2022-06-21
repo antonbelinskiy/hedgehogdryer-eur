@@ -1,0 +1,197 @@
+{
+  "current": {
+    "colors_accent_1": "#c27514",
+    "colors_accent_2": "#d48420",
+    "type_header_font": "archivo_n7",
+    "type_body_font": "catamaran_n4",
+    "buttons_border_thickness": 1,
+    "buttons_radius": 40,
+    "buttons_shadow_horizontal_offset": 0,
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "language_switcher_enabled": true,
+    "language_switcher_position": "bottom-right",
+    "language_switcher_spacing_bottom": "0",
+    "language_switcher_flags": true,
+    "language_switcher_border_color": "#b6b6b6",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "[Reddot] design award winner",
+              "color_scheme": "accent-2",
+              "link": ""
+            }
+          },
+          "c55d1ee8-27cd-4294-a3c9-ed4df2a86642": {
+            "type": "announcement",
+            "settings": {
+              "text": "FREE WORLDWIDE SHIPPING TO YOUR DOOR",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0",
+          "c55d1ee8-27cd-4294-a3c9-ed4df2a86642"
+        ],
+        "settings": {
+          "popup": "<div class=\"announcement-bar__popup-logo\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0558\/5485\/8291\/files\/dhl-logo.png?v=1650626628\" alt=\"\"><\/div>\n<p>We ship every business day from our storage worldwide and deliver within 1-3 business days in Europe and US using our partner DHL for worldwide shipping. In any other country, this can take between 1-5 business days.<\/p><b>Tracking your order, made easy!<\/b><p>Once your order is picked up from our warehouse you get an email and\/or a text message from DHL. With this you can:<\/p><ol><li>Track your order<\/li><li>Customize your delivery options if you like to:<\/li><\/ol><ul class=\"list-bullets\"><li>Change the delivery date<\/li><li>Change delivery address<\/li><li>Collect from DHL service points<\/li><li>Leave it with your neighbor<\/li><li>Signature release it so DHL will leave it at your doorstep<\/li><\/ul><b>Do I have to pay any import taxes?<\/b><p>No, we ship to all countries including all charges for taxes and import costs included. Only customers in Russia will have to pay import duties upon receival of their order.<\/p>\n      <b>Corona Information<\/b><p>MiniMeis is not affected by the ongoing situation with the coronavirus. You will receive your order within 1-3 business days. Take care of each other and embrace the potential extra time you have as a family, in your local neighborhoods.<\/p><b>Delivery without contact – Signature Release<\/b><p>Our partner DHL offers the option to deliver without requiring a signature, providing a delivery without personal contact. This option is made available after you ordered with us, DHL will contact you by email and sms where you can choose “Signature release” as an option.<\/p>"
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "accent-1",
+          "logo": "shopify:\/\/shop_images\/logo_53c1e0f4-0130-49d0-8ff5-780d01dfe14e.jpg",
+          "logo_width": 210,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "mobile_menu": "mobile-main-menu",
+          "show_line_separator": false,
+          "enable_sticky_header": true,
+          "margin_bottom": 36
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Policies",
+              "menu": "footer"
+            }
+          },
+          "b00a8956-950e-41aa-bc9d-f535954916f8": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "quick-links"
+            }
+          },
+          "bd81162a-19f6-4252-a5e7-85cdebeccc47": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "subtext": "<p>Hedgehog AS<\/p><p>Høvlerivegen 6<br\/>3560 Hemsedal<br\/>NORWAY<\/p><p>Org.nr 822292852<\/p>"
+            }
+          },
+          "65422399-f7f7-405d-b2c1-eeec36613e6c": {
+            "type": "text",
+            "settings": {
+              "heading": "Business Hours \/ Customer Service:",
+              "subtext": "<p>contact@hedgehogdryer.com<\/p><p>+47 32 06 00 00<\/p><p>9am - 4pm CEST<br\/>Response time typically 1-3 hours<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "b00a8956-950e-41aa-bc9d-f535954916f8",
+          "bd81162a-19f6-4252-a5e7-85cdebeccc47",
+          "65422399-f7f7-405d-b2c1-eeec36613e6c"
+        ],
+        "settings": {
+          "color_scheme": "accent-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Subscribe to our newsletter",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false,
+          "margin_top": 48,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "color_scheme": "background-1"
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo_width": 90
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "link_list",
+              "settings": {
+                "heading": "Info"
+              }
+            },
+            "footer-2": {
+              "type": "text",
+              "settings": {
+                "heading": "Our mission"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social": true,
+            "enable_country_selector": false,
+            "enable_language_selector": false,
+            "margin_top": 48
+          }
+        },
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+          }
+        }
+      }
+    }
+  }
+}
